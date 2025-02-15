@@ -20,5 +20,7 @@ Website for STEMing Aspirations, an organization dedicated to increasing access 
 - <b>Tailwind CSS</b>: Utility-first CSS framework for styling (+TailGrids UI Library)
 
 <h2>Home Page</h2>
+<img src="https://github.com/chowdhuryraza/steming-asp/blob/main/images/Home%20Page.png" width=80%>
+
 
 </samp>
